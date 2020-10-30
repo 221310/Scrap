@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/myprofile"
+        android:icon="@drawable/profile"
+        android:title="My Profile" />
+
+    <item
+        android:id="@+id/sdproduct"
+        android:icon="@drawable/f_and_q"
+        android:title="SD Product" />
+
+    <item
+        android:id="@+id/mybit"
+        android:icon="@drawable/mybit"
+        android:title="My Bit" />
+
+    <item
+        android:id="@+id/pay"
+        android:icon="@drawable/pay"
+        android:title="Pay" />
+
+    <item
+        android:id="@+id/user"
+        android:icon="@drawable/switchuser"
+        android:title="Switch User" />
+
+    <item
+        android:id="@+id/wishlist"
+        android:icon="@drawable/wishlist"
+        android:title="Wishlist" />
+
+    <item
+        android:id="@+id/kyc"
+        android:icon="@drawable/kyc_update"
+        android:title="KYC Update" />
+    <item
+        android:id="@+id/post"
+        android:icon="@drawable/post"
+        android:title="Post" />
+
+    <item
+        android:id="@+id/term_conditions"
+        android:icon="@drawable/t_and_condition"
+        android:title="Terms and Condition" />
+
+    <item
+        android:id="@+id/share"
+        android:icon="@drawable/share"
+        android:title="Share" />
+
+    <item
+        android:id="@+id/about_us"
+        android:icon="@drawable/f_and_q"
+        android:title="About us FQ" />
+    <item
+        android:id="@+id/logout"
+        android:icon="@drawable/logout"
+        android:title="Logout" />
+
+
+</menu>
